@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @allyssonmacedo<br>👀 I’m interested in Python, SQL, R, RPA, PowerBI<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 How to reach me @allyssonmacedo / allyssonvsmacedo@gmail.com
+👋 Hi, I’m @allyssonmacedo<br>👀 I’m interested in Python, SQL, R, ECL, RPA, PowerBI<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 How to reach me @allyssonmacedo / allyssonvsmacedo@gmail.com
 
 
 ## 🌐 Socials:
