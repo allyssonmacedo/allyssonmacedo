@@ -1,8 +1,74 @@
 # 💫 About Me:
 👋 Hi, I’m @allyssonmacedo<br>👀 I’m interested in Python, SQL, R, ECL, RPA, PowerBI<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 How to reach me @allyssonmacedo / allyssonvsmacedo@gmail.com
+ 
+# Repositories Organization
+------------
+The repositories are classified according to type and original proposal describe below:
+
+    ├── type
+    │   ├── ds      <- Data Science projects with data, reports, analysis and modeling.
+    │   ├── bi      <- Business Intelligence projects with data, dashboards, analysis.
+    │   ├── sc      <- Source Code mainly scrips and algorithms.
+    │   └── ap      <- Custom Aplications with scrips, data science, business intelligence and applied knowledge deployed.
+
+    ├── proposal
+    │   ├── ama     <- Original proposal using a mix of knowledge.
+    │   ├── dcp     <- [Datacamp](https://www.datacamp.com) proposal.
+    │   ├── cev     <- [Curso em Vídeo](https://youtu.be/oV1s53YGtvE) proposal.
+    │   └── fad     <- [Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-analista-de-dados) "Formação Analista de Dados" proposal
 
 
-## 🌐 Socials:
+
+    ├── LICENSE
+    ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    ├── README.md          <- The top-level README for developers using this project.
+    ├── data
+    │   ├── external       <- Data from third party sources.
+    │   ├── interim        <- Intermediate data that has been transformed.
+    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   └── raw            <- The original, immutable data dump.
+    │
+    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    │
+    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    │
+    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    │                         the creator's initials, and a short `-` delimited description, e.g.
+    │                         `1.0-jqp-initial-data-exploration`.
+    │
+    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    │
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    │   └── figures        <- Generated graphics and figures to be used in reporting
+    │
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+    │                         generated with `pip freeze > requirements.txt`
+    │
+    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
+    ├── src                <- Source code for use in this project.
+    │   ├── __init__.py    <- Makes src a Python module
+    │   │
+    │   ├── data           <- Scripts to download or generate data
+    │   │   └── make_dataset.py
+    │   │
+    │   ├── features       <- Scripts to turn raw data into features for modeling
+    │   │   └── build_features.py
+    │   │
+    │   ├── models         <- Scripts to train models and then use trained models to make
+    │   │   │                 predictions
+    │   │   ├── predict_model.py
+    │   │   └── train_model.py
+    │   │
+    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
+    │       └── visualize.py
+    │
+    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+
+
+--------
+
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allyssonmacedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/allyssonmacedo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/allyssonmacedo) 
 
 # 💻 Tech Stack:
