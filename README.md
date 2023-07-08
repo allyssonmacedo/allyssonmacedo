@@ -1,7 +1,7 @@
-# 💫 About Me:
-👋 Hi, I’m @allyssonmacedo<br>👀 I’m interested in Python, SQL, R, ECL, RPA, PowerBI<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 How to reach me @allyssonmacedo / allyssonvsmacedo@gmail.com
+## Allysson Macedo
+👋 Hi, I’m @allyssonmacedo <br> 👀 I’m interested in Python, SQL, R, ECL, RPA, PowerBI<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 How to reach me @allyssonmacedo / allyssonvsmacedo@gmail.com
  
-# Repositories Organization
+## Repositories Organization
 ------------
 The repositories are classified according to type and original proposal describe below:
 
@@ -13,10 +13,11 @@ The repositories are classified according to type and original proposal describe
 
     ├── proposal
     │   ├── ama     <- Original proposal using a mix of knowledge.
-    │   ├── dcp     <- [Datacamp](https://www.datacamp.com) proposal.
-    │   ├── cev     <- [Curso em Vídeo](https://youtu.be/oV1s53YGtvE) proposal.
-    │   └── fad     <- [Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-analista-de-dados) "Formação Analista de Dados" proposal
-
+    │   ├── dcp     <- Datacamp proposal. 
+    │   ├── cev     <- Curso em Vídeo proposal.
+    │   └── fad     <- Data Science Academy proposal - "Formação Analista de Dados"
+ 
+Want to more about my repositories? Take a quick look below and feel free to navigate into them.
 
 
     ├── LICENSE
