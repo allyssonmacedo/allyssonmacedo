@@ -66,6 +66,17 @@ Want to more about my repositories? Take a quick look below and feel free to nav
     │   ├── God-Level-Data-Science-ML-Full-Stack    <- Original proposal using a mix of knowledge.
     │   ├── plant-disease-classification    <- Original proposal using a mix of knowledge.
 
+Commits track 
+
+    ├── feat: New features, something that didn't exist.
+    ├── fix: Bug fixes.
+    ├── docs: Changes in documentation files.
+    ├── style: Changes in styles, formatation or design.
+    ├── refactor: Changes in the application, but not for the final user. 
+    ├── perf: Changes that impact the performance
+    ├── test: Create or modify tests.Criação ou modificação de testes
+    ├── chore: Modifications in configs, build, CI/CD, etc
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allyssonmacedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/allyssonmacedo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/allyssonmacedo) 
