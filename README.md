@@ -22,49 +22,45 @@ Want to more about my repositories? Take a quick look below and feel free to nav
 
     ├── ds      
     │   ├── ama          
-    |   │   ├── credit-score-predict       <- Datacamp proposal. 
-    |   │   └── covid19       <- Datacamp proposal.
+    |   │   ├── credit-score-predict                <- ML models to predict credit score 
+    |   │   └── covid19                             <- covid databse analysis
     |
     │   ├── dcp          
-    │   │   ├── analyze-ab-test-result        <- Datacamp proposal. 
-    │   │   ├── naive-bees       <- Datacamp proposal. 
-    │   │   ├── netflix-movies       <- Datacamp proposal. 
-    │   │   ├── sharpe-ratio      <- Datacamp proposal. 
-    │   │   ├── app-market-playstore       <- Datacamp proposal. 
-    │   │   ├── international-debt-statistics       <- Datacamp proposal. 
-    │   │   ├── golden-age-video-games       <- Datacamp proposal. 
-    │   │   ├── nobel-prize-winners       <- Datacamp proposal. 
-    │   │   ├── sports-retail-revenue        <- Datacamp proposal. 
-    │   │   └── scala-project       <- Datacamp proposal. 
+    │   │   ├── analyze-ab-test-result              <- AB test
+    │   │   ├── naive-bees                          <- Image recognition / Computer Vision
+    │   │   ├── netflix-movies                      <- Netflix movies data analysis
+    │   │   ├── sharpe-ratio                        <- Sharpe ratio stock analysis
+    │   │   ├── app-market-playstore                <- Playstore apps data analysis
+    │   │   ├── international-debt-statistics       <- Statistics debts data analysis
+    │   │   ├── golden-age-video-games              <- Video Game X launch year analysis
+    │   │   ├── nobel-prize-winners                 <- Nobel winners data analysis
+    │   │   ├── sports-retail-revenue               <- SQL Analysis ina sports databse
+    │   │   └── scala-project                       <- Analysis of scala project data
     |
     │   ├── fad          
-    │   │   ├── 01-sql-em-python         <- Datacamp proposal. 
-    │   │   ├── 02-analise-exploratoria     <- Datacamp proposal. 
-    │   │   ├── 03-limpeza-dos-dados     <- Datacamp proposal. 
+    │   │   ├── 01-sql-em-python                    <- SQL in Python enviroment
+    │   │   ├── 02-analise-exploratoria             <- Exploratory data analysis
+    │   │   ├── 03-limpeza-dos-dados                <- Data Cleaning Project / Functions
     
     ├── sc    
     │   ├── ama
-    │   │   ├── ECL    <- Original proposal using a mix of knowledge.
-    │   │   ├── audiobook    <- Original proposal using a mix of knowledge.
-    │   │   ├── hash [private]   <- Original proposal using a mix of knowledge.
-
+    │   │   ├── ECL                                 <- ECL files, analysis and source code
+    │   │   ├── audiobook                           <- A Python pdf reader / audiobook
+    │   │   └──  hash [private]                     <- Hash studies / Encrypting / Decrypting
     |
     │   ├── cev
-    │   │   ├── python    <- Original proposal using a mix of knowledge.
-    │   │   ├── ama     <- Original proposal using a mix of knowledge.
-    │   │   ├── ama     <- Original proposal using a mix of knowledge.
-    │   └── fad     <- Data Science Academy proposal - "Formação Analista de Dados"
+    │   └── python                                  <- +100 python codes from basics to advanced
     
     ├── ap    
     │   ├── ama
     │   │   ├── ECL    <- Original proposal using a mix of knowledge.
     │   │   ├── simeare-controle-zootecnico    <- Original proposal using a mix of knowledge.
     │   │   ├── simeare-acerola    <- Original proposal using a mix of knowledge.
-    │   │   ├── ap-ama-agro-telegrambot [private]    <- Original proposal using a mix of knowledge.
+    │   │   └── ap-ama-agro-telegrambot [private]    <- Original proposal using a mix of knowledge.
 
     ├── fk   
     │   ├── God-Level-Data-Science-ML-Full-Stack    <- Original proposal using a mix of knowledge.
-    │   ├── plant-disease-classification    <- Original proposal using a mix of knowledge.
+    │   └── plant-disease-classification    <- Original proposal using a mix of knowledge.
 
 Commits track 
 
