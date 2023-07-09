@@ -46,21 +46,21 @@ Want to more about my repositories? Take a quick look below and feel free to nav
     │   ├── ama
     │   │   ├── ECL                                 <- ECL files, analysis and source code
     │   │   ├── audiobook                           <- A Python pdf reader / audiobook
-    │   │   └──  hash [private]                     <- Hash studies / Encrypting / Decrypting
+    │   │   └── hash [private]                      <- Hash studies / Encrypting / Decrypting
     |
     │   ├── cev
-    │   └── python                                  <- +100 python codes from basics to advanced
+    │   │   └── python                              <- +100 python codes from basics to advanced
     
     ├── ap    
     │   ├── ama
-    │   │   ├── ECL    <- Original proposal using a mix of knowledge.
-    │   │   ├── simeare-controle-zootecnico    <- Original proposal using a mix of knowledge.
-    │   │   ├── simeare-acerola    <- Original proposal using a mix of knowledge.
-    │   │   └── ap-ama-agro-telegrambot [private]    <- Original proposal using a mix of knowledge.
+    │   │   ├── virtual-assistent-olga              <- Virtual assistent like Jarvis or Alexa (but simpler)
+    │   │   ├── simeare-controle-zootecnico         <- App development to register farm animals lineage and activities
+    │   │   ├── simeare-acerola                     <- App development to register acerola crop production with tecnical research
+    │   │   └── ap-ama-agro-telegrambot [private]   <- Telegram bot that uses webscrapping and routine activities
 
     ├── fk   
-    │   ├── God-Level-Data-Science-ML-Full-Stack    <- Original proposal using a mix of knowledge.
-    │   └── plant-disease-classification    <- Original proposal using a mix of knowledge.
+    │   ├── God-Level-Data-Science-ML-Full-Stack    <- Studies about Data Science
+    │   └── plant-disease-classification            <- Image recognition in Agro 
 
 Commits track 
 
