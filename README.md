@@ -56,7 +56,7 @@ Want to more about my repositories? Take a quick look below and feel free to nav
     │   │   ├── virtual-assistent-olga              <- Virtual assistent like Jarvis or Alexa (but simpler)
     │   │   ├── simeare-controle-zootecnico         <- App development to register farm animals lineage and activities
     │   │   ├── simeare-acerola                     <- App development to register acerola crop production with tecnical research
-    │   │   └── ap-ama-agro-telegrambot [private]   <- Telegram bot that uses webscrapping and routine activities
+    │   │   └── agro-telegrambot [private]   <- Telegram bot that uses webscrapping and routine activities
 
     ├── fk   
     │   ├── God-Level-Data-Science-ML-Full-Stack    <- Studies about Data Science
