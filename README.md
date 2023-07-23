@@ -16,6 +16,7 @@ The repositories are classified according to type and original proposal describe
     │   ├── ama     <- Original proposal using a mix of knowledge.
     │   ├── dcp     <- Datacamp proposal. 
     │   ├── cev     <- Curso em Vídeo proposal.
+    |   ├── asv     <- Asimov Data Science proposal.
     │   └── fad     <- Data Science Academy proposal - "Formação Analista de Dados"
  
 Want to more about my repositories? Take a quick look below and feel free to navigate into them. <br>
@@ -50,6 +51,9 @@ Want to more about my repositories? Take a quick look below and feel free to nav
     |
     │   ├── cev
     │   │   └── python                              <- +100 python codes from basics to advanced
+    |
+    │   ├── asv
+    │   │   └── dashboards-python                   <- Interative Dashboards with Python
     
     ├── ap    
     │   ├── ama
