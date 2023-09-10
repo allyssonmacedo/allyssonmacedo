@@ -10,6 +10,7 @@ The repositories are classified according to type and original proposal describe
     │   ├── bi      <- Business Intelligence projects with data, dashboards, analysis.
     │   ├── sc      <- Source Code mainly scrips and algorithms.
     │   ├── fk      <- Forked repository of any kind.
+    │   ├── pb      <- Projects Brainstorming with several proporses
     │   └── ap      <- Custom Aplications with scrips, data science, business intelligence and applied knowledge deployed.
 
     ├── proposal
