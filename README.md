@@ -1,24 +1,26 @@
 ## Allysson Macedo
-👋 Hi, I’m @allyssonmacedo <br> 👀 I’m interested in Python, SQL, R, ECL, RPA, PowerBI<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 How to reach me @allyssonmacedo / allyssonvsmacedo@gmail.com
+👋 Hi, I’m @allyssonmacedo <br> 👀 I’m interested in Python, SQL, R, ECL, RPA, PowerBI<br>🌱 I’m currently a Data Analyst<br>💞️ I’m looking to collaborate on Data Science/Engineering Projects<br>📫 How to reach me @allyssonmacedo / allyssonvsmacedo@gmail.com
  
 ## Repositories Organization
 ------------
-The repositories are classified according to type and original proposal describe below:
+The repositories are classified according to type and stages of development describe below. To avoid a large amount of git repo, they were grouped in sections [Folders] and inside them, it can be found small end-to-end projects.
 
-    ├── type
+    ├── Type
+    │   ├── pb      <- Projects Brainstorming with several sources
+    │   ├── ap      <- Custom Aplications with scrips, data science, business intelligence and applied knowledge.
+    │   ├── fk      <- Forked repository of any kind.
+    │   └── saas    <- SAAS systems [private/collaborative]
+
+    ├── Stages
+    │   ├── dev     <- Development projects (end-to-end)
+    │   ├── prd     <- Production projects with deploy
+    │   └── std     <- Study projects with different sources [Private]
+
+    ├── Folders
     │   ├── ds      <- Data Science projects with data, reports, analysis and modeling.
     │   ├── bi      <- Business Intelligence projects with data, dashboards, analysis.
-    │   ├── sc      <- Source Code mainly scrips and algorithms.
-    │   ├── fk      <- Forked repository of any kind.
-    │   ├── pb      <- Projects Brainstorming with several proporses
-    │   └── ap      <- Custom Aplications with scrips, data science, business intelligence and applied knowledge deployed.
-
-    ├── proposal
-    │   ├── ama     <- Original proposal using a mix of knowledge.
-    │   ├── dcp     <- Datacamp proposal. 
-    │   ├── cev     <- Curso em Vídeo proposal.
-    |   ├── asv     <- Asimov Data Science proposal.
-    │   └── fad     <- Data Science Academy proposal - "Formação Analista de Dados"
+    │   └── sc      <- Source Code mainly scrips and algorithms.
+    
  
 Want to more about my repositories? Take a quick look below and feel free to navigate into them. <br>
 
