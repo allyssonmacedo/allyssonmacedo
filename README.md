@@ -22,52 +22,7 @@ The repositories are classified according to type and stages of development desc
     │   └── sc      <- Source Code mainly scrips and algorithms.
     
  
-Want to more about my repositories? Take a quick look below and feel free to navigate into them. <br>
-
-    ├── ds      
-    │   ├── ama          
-    |   │   ├── credit-score-predict                <- ML models to predict credit score 
-    |   │   └── covid19                             <- covid databse analysis
-    |
-    │   ├── dcp          
-    │   │   ├── analyze-ab-test-result              <- AB test
-    │   │   ├── naive-bees                          <- Image recognition / Computer Vision
-    │   │   ├── netflix-movies                      <- Netflix movies data analysis
-    │   │   ├── sharpe-ratio                        <- Sharpe ratio stock analysis
-    │   │   ├── app-market-playstore                <- Playstore apps data analysis
-    │   │   ├── international-debt-statistics       <- Statistics debts data analysis
-    │   │   ├── golden-age-video-games              <- Video Game X launch year analysis
-    │   │   ├── nobel-prize-winners                 <- Nobel winners data analysis
-    │   │   ├── sports-retail-revenue               <- SQL Analysis ina sports databse
-    │   │   └── scala-project                       <- Analysis of scala project data
-    |
-    │   ├── fad          
-    │   │   ├── 01-sql-em-python                    <- SQL in Python enviroment
-    │   │   ├── 02-analise-exploratoria             <- Exploratory data analysis
-    │   │   ├── 03-limpeza-dos-dados                <- Data Cleaning Project / Functions
-    
-    ├── sc    
-    │   ├── ama
-    │   │   ├── ECL                                 <- ECL files, analysis and source code
-    │   │   ├── audiobook                           <- A Python pdf reader / audiobook
-    │   │   └── hash [private]                      <- Hash studies / Encrypting / Decrypting
-    |
-    │   ├── cev
-    │   │   └── python                              <- +100 python codes from basics to advanced
-    |
-    │   ├── asv
-    │   │   └── dashboards-python                   <- Interative Dashboards with Python
-    
-    ├── ap    
-    │   ├── ama
-    │   │   ├── virtual-assistent-olga              <- Virtual assistent like Jarvis or Alexa (but simpler)
-    │   │   ├── simeare-controle-zootecnico         <- App development to register farm animals lineage and activities
-    │   │   ├── simeare-acerola                     <- App development to register acerola crop production with tecnical research
-    │   │   └── agro-telegrambot [private]   <- Telegram bot that uses webscrapping and routine activities
-
-    ├── fk   
-    │   ├── God-Level-Data-Science-ML-Full-Stack    <- Studies about Data Science
-    │   └── plant-disease-classification            <- Image recognition in Agro 
+Want to more about my repositories? Take a look inside them and see the READ.me file. <br>
 
 Commits track 
 
@@ -77,7 +32,7 @@ Commits track
     ├── style: Changes in styles, formatation or design.
     ├── refactor: Changes in the application, but not for the final user. 
     ├── perf: Changes that impact the performance
-    ├── test: Create or modify tests.Criação ou modificação de testes
+    ├── test: Create or modify tests.
     ├── chore: Modifications in configs, build, CI/CD, etc
 
 
